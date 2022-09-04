@@ -24,4 +24,4 @@ traits.forEach(file => {
   client.on(traitname, event.bind(null,  client));
 })
 
-client.login("MTAwMjM2MTg4MjY5NjQ5MTA4OQ.GqE7Dw.bFv_fFu-20WSNlxbIrhdiAEw25pg9Sbuz6LX2E") //// by zangana put token in .env 
+client.login("Token Yuo Acc") //// by Dot Dot
