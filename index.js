@@ -24,4 +24,4 @@ traits.forEach(file => {
   client.on(traitname, event.bind(null,  client));
 })
 
-client.login("Token Yuo Acc") //// by Dot Dot
+client.login("MTAxNTU1MTM2NjUxODgwODYwNg.GiPuek.V6ZUsEnN929-g-v2AsgxhvHihgxmdxRd5N_oNw") //// by Dot Dot
